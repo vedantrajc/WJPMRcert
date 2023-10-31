@@ -1,0 +1,15 @@
+
+
+.contentWdth {width: 840px}
+
+.contentPosition {
+    position: relative;
+    bottom: 445px;
+}
+
+.content_style {
+    font-family: "Century", Century, serif;
+    text-align: justify;
+    font-size: large;
+}
+
